@@ -1,0 +1,3 @@
+Citibike analysis 
+
+The Citibike data from March and April of 2021 showed that the weather in April improving caused more riders to migrate to the beach areas of New York City as April progressed, in addition to there being more riders on the Broadway area which is known for tourists. 
